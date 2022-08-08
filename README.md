@@ -12,7 +12,7 @@ This is basis to investigate whether I can use this (old/deprecated) OpenJSCAD v
 ![C60.vtype.half0.png](C60.vtype.half0.png)  
 
 ... that I create with planar graph playground as OpenSCAD file:  
-[https://github.com/Hermann-SW/planar_graph_playground/node.tetra.js](https://github.com/Hermann-SW/planar_graph_playground/node.tetra.js)  
+[https://github.com/Hermann-SW/planar_graph_playground/blob/main/node.tetra.js](https://github.com/Hermann-SW/planar_graph_playground/blob/main/node.tetra.js)
 
 
 # DEPRECATED!
