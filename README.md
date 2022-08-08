@@ -1,3 +1,20 @@
+I have problems with OpenJSCAD, but I found joostn's github pages working:  
+http://joostn.github.io/OpenJsCad/
+
+From the repo  
+https://github.com/joostn/openjscad/tree/gh-pages
+I extracted the .zip in accordance with LICENSE:
+https://github.com/joostn/OpenJsCad/archive/refs/heads/gh-pages.zip
+
+Opening  [OpenJsCad-gh-pages/index.html](OpenJsCad-gh-pages/index.html) in browser has working model viewer, and its Playground works as well.   
+
+This is basis to investigate whether I can use this old/dperecated OpenJSCAD version to produce same output in browser ...  
+![C60.vtype.half0.png](C60.vtype.half0.png)  
+
+... that I create with planar graph playground as OpenSCAD file:  
+[https://github.com/Hermann-SW/planar_graph_playground/node_tetra.js](https://github.com/Hermann-SW/planar_graph_playground/node_tetra.js)  
+
+
 # DEPRECATED!
 
 This repository is not maintained anymore but left here for archive purposes. Please go to:
