@@ -14,6 +14,9 @@ This is basis to investigate whether I can use this (old/deprecated) OpenJSCAD v
 ... that I create with planar graph playground as OpenSCAD file:  
 [https://github.com/Hermann-SW/planar_graph_playground/blob/main/node.tetra.js](https://github.com/Hermann-SW/planar_graph_playground/blob/main/node.tetra.js)
 
+[OpenJsCad-gh-pages/only_viewer.html](OpenJsCad-gh-pages/only_viewer.html) is stripped down version of index.html with only viewer showing its .jscad file:  
+![only_viewer.html.png](only_viewer.html.png)
+
 
 # DEPRECATED!
 
